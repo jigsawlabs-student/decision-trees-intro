@@ -1,0 +1,9 @@
+attended_college,under_thirty,borough,income,customer
+?,Yes,Manhattan,< 55,0
+Yes,Yes,Brooklyn,< 55,0
+?,No,Brooklyn,< 55,1
+No,No,Queens,> 100,1
+?,No,Queens,55 - 100,1
+Yes,No,Manhattan,> 100,0
+Yes,No,Queens,> 100,0
+Yes,Yes,Brooklyn,55 - 100,0
